@@ -51,7 +51,7 @@ The recommended way to install `rds-cli` is globally on your system using [uv](h
 
 ```bash
 # Install globally from GitHub
-uv tool install git+https://github.com/charles-forsyth/rds-cli.git
+uv tool install git+https://github.com/UCR-Research-Computing/rds-cli.git
 ```
 
 To upgrade `rds-cli` to the latest version in the future:
