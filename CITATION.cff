@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "rds-cli: a command-line client for the UC Riverside CephRDS research object store"
+type: software
+authors:
+  - family-names: "Forsyth III"
+    given-names: "Charles E."
+    orcid: "https://orcid.org/0000-0003-4872-0296"
+    affiliation: "University of California, Riverside"
+repository-code: "https://github.com/UCR-Research-Computing/rds-cli"
+license: MIT
+keywords:
+  - "Ceph"
+  - "S3"
+  - "object storage"
+  - "research data"
+references:
+  - type: report
+    title: "Field Note describing this software"
+    doi: "10.5281/zenodo.23752269"
+    authors:
+      - family-names: "Forsyth III"
+        given-names: "Charles E."
